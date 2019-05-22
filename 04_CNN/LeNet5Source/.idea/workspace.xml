@@ -2,15 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="5dd0615f-f921-447a-8045-0807bbff3a47" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/dictionaries/fei.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/test.md" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LenNet5/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LenNet5/mnist_eval.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LenNet5/mnist_inference.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../LenNet5/mnist_train.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../03_MNIST/optimizerMNIST/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../03_MNIST/optimizerMNIST/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/Inference.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LenNet5/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../LenNet5/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../LenNet5/mnist_inference.py" beforeDir="false" afterPath="$PROJECT_DIR$/../LenNet5/mnist_inference.py" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -38,8 +33,8 @@
       <file pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/Inference.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="489">
-              <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+            <state relative-caret-position="-61">
+              <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
             </state>
           </provider>
         </entry>
@@ -80,20 +75,7 @@
     <navigator proportions="" version="1">
       <foldersAlwaysOnTop value="true" />
     </navigator>
-    <panes>
-      <pane id="ProjectPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="LeNet5Source" type="b2602c69:ProjectViewProjectNode" />
-              <item name="LeNet5Source" type="462c0819:PsiDirectoryNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
-      <pane id="Scope" />
-    </panes>
+    <panes />
   </component>
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
@@ -146,17 +128,19 @@
       <updated>1556358777049</updated>
       <workItem from="1556358792603" duration="968000" />
       <workItem from="1556508805029" duration="3823000" />
+      <workItem from="1557222443153" duration="1078000" />
+      <workItem from="1557967260574" duration="172000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="4791000" />
+    <option name="totallyTimeSpent" value="6041000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="953" y="0" width="974" height="1047" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.14770241" />
+      <window_info content_ui="combo" id="Project" order="0" weight="0.15098469" />
       <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
       <window_info id="Favorites" order="2" side_tool="true" />
       <window_info anchor="bottom" id="Message" order="0" />
@@ -183,13 +167,7 @@
     <option name="version" value="1" />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/LeNet_note.ipynb">
-      <provider selected="true" editor-type-id="ipnb-editor">
-        <state>
-          <selected id="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/LeNet_note.ipynb" />
     <entry file="file://$PROJECT_DIR$/test.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="SPLIT">
@@ -202,8 +180,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/Inference.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="489">
-          <caret line="28" column="15" lean-forward="true" selection-start-line="28" selection-start-column="15" selection-end-line="28" selection-end-column="15" />
+        <state relative-caret-position="-61">
+          <caret line="10" lean-forward="true" selection-start-line="10" selection-end-line="10" />
         </state>
       </provider>
     </entry>

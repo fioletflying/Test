@@ -158,7 +158,7 @@ def inference(input_tensor,train,regularizer):
             initializer=tf.constant_initializer(0.1)
 
         )
-
+p
         logit = tf.matmul(fc1, fc2_weights) + fc2_baises
 
 

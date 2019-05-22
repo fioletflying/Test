@@ -32,6 +32,13 @@ CONV2_SIZE = 5
 #全连接层的节点个数
 FC_SIZE = 1024
 
+def weight_variable(shape):
+
+
+
+
+
+
 
 
 
