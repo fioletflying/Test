@@ -8,7 +8,7 @@ cvNet = cv.dnn.readNetFromTensorflow(weights, pbtxt)
 img = cv.imread('F:/Study/Opencv/dnn/ssdModel/ssdModel/20190525_102902.jpg')
 rows = img.shape[0]
 cols = img.shape[1]
-cvNet.setInput(cv.dnn.blobFromImage(img, size=(300, 300), mean=(127.5,127.5,127.5), swapRB=True, crop=False))
+cvNet.setInput(cv.dnn.blobFromImage(img, 1.0,size=(300, 300), swapRB=True, crop=False))
 cvOut = cvNet.forward()
 
 for detection in cvOut[0,0,:,:]:
