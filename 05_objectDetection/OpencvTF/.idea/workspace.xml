@@ -2,23 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="faaddf89-62a3-4db9-9a41-cb9f8b33ad96" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/CVCallModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/TFCallModel.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/.idea/openCVModel.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../openCVModel/cvCallmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../04_CNN/VGG/openCVmodel.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../04_CNN/VGG/openCVmodel.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Faster_rcnn_resnet/.ipynb_checkpoints/Untitled-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Faster_rcnn_resnet/.ipynb_checkpoints/Untitled1-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Faster_rcnn_resnet/.ipynb_checkpoints/Untitled2-checkpoint.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Faster_rcnn_resnet/Untitled.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Faster_rcnn_resnet/Untitled1.ipynb" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/../Faster_rcnn_resnet/Untitled2.ipynb" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -27,7 +11,7 @@
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
   <component name="CoverageDataManager">
-    <SUITE FILE_PATH="coverage/OpencvTF$CVCallModel.coverage" NAME="CVCallModel Coverage Results" MODIFIED="1564125773145" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/OpencvTF$CVCallModel.coverage" NAME="CVCallModel Coverage Results" MODIFIED="1565679620226" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
     <SUITE FILE_PATH="coverage/OpencvTF$pytf.coverage" NAME="pytf Coverage Results" MODIFIED="1564040119967" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../04_CNN/VGG" />
     <SUITE FILE_PATH="coverage/OpencvTF$openCVmodel.coverage" NAME="openCVmodel Coverage Results" MODIFIED="1564040487562" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/../../04_CNN/VGG" />
     <SUITE FILE_PATH="coverage/OpencvTF$TFCallModel.coverage" NAME="TFCallModel Coverage Results" MODIFIED="1564124698965" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
@@ -36,29 +20,23 @@
     <splitter split-orientation="horizontal" split-proportion="0.4706823">
       <split-first>
         <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-          <file pinned="false" current-in-tab="true">
+          <file pinned="false" current-in-tab="false">
             <entry file="file://$PROJECT_DIR$/TFCallModel.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="198">
-                  <caret line="9" column="17" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="17" />
+                <state relative-caret-position="352">
+                  <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
+                  <folding>
+                    <element signature="e#147#156#0" expanded="true" />
+                  </folding>
                 </state>
               </provider>
             </entry>
           </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/687791326/cv2/__init__.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="193380">
-                  <caret line="8825" column="11" selection-start-line="8825" selection-start-column="4" selection-end-line="8825" selection-end-column="11" />
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
+          <file pinned="false" current-in-tab="true">
             <entry file="file://F:/Amodel/models-master/research/object_detection/object_detection_tutorial.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="3542">
-                  <caret line="178" column="67" selection-start-line="178" selection-start-column="67" selection-end-line="178" selection-end-column="67" />
+                <state relative-caret-position="330">
+                  <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
                   <folding>
                     <element signature="e#412#430#0" expanded="true" />
                   </folding>
@@ -82,20 +60,11 @@
           <file pinned="false" current-in-tab="true">
             <entry file="file://$PROJECT_DIR$/CVCallModel.py">
               <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="946">
-                  <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+                <state relative-caret-position="528">
+                  <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
                   <folding>
                     <element signature="e#149#165#0" expanded="true" />
                   </folding>
-                </state>
-              </provider>
-            </entry>
-          </file>
-          <file pinned="false" current-in-tab="false">
-            <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1584941470/cv2/dnn.py">
-              <provider selected="true" editor-type-id="text-editor">
-                <state relative-caret-position="616">
-                  <caret line="28" column="58" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="58" />
                 </state>
               </provider>
             </entry>
@@ -270,11 +239,16 @@
       <updated>1564017460425</updated>
       <workItem from="1564017462013" duration="28127000" />
       <workItem from="1564125582362" duration="5571000" />
+      <workItem from="1565170178314" duration="901000" />
+      <workItem from="1565225243029" duration="6070000" />
+      <workItem from="1565591262022" duration="4247000" />
+      <workItem from="1565677957834" duration="1378000" />
+      <workItem from="1565745101300" duration="7000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="33698000" />
+    <option name="totallyTimeSpent" value="46301000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
@@ -364,12 +338,19 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Amodel/models-master/research/object_detection/object_detection_tutorial.py">
+    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1584941470/cv2/dnn.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3542">
-          <caret line="178" column="67" selection-start-line="178" selection-start-column="67" selection-end-line="178" selection-end-column="67" />
+        <state relative-caret-position="616">
+          <caret line="28" column="58" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="58" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TFCallModel.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="352">
+          <caret line="20" column="60" selection-start-line="20" selection-start-column="60" selection-end-line="20" selection-end-column="60" />
           <folding>
-            <element signature="e#412#430#0" expanded="true" />
+            <element signature="e#147#156#0" expanded="true" />
           </folding>
         </state>
       </provider>
@@ -381,24 +362,20 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$USER_HOME$/.PyCharm2018.3/system/python_stubs/-1584941470/cv2/dnn.py">
+    <entry file="file://F:/Amodel/models-master/research/object_detection/object_detection_tutorial.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="616">
-          <caret line="28" column="58" selection-start-line="28" selection-start-column="54" selection-end-line="28" selection-end-column="58" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/TFCallModel.py">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="7" selection-end-line="9" selection-end-column="17" />
+        <state relative-caret-position="330">
+          <caret line="72" column="46" selection-start-line="72" selection-start-column="46" selection-end-line="72" selection-end-column="46" />
+          <folding>
+            <element signature="e#412#430#0" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/CVCallModel.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="946">
-          <caret line="43" column="35" lean-forward="true" selection-start-line="43" selection-start-column="35" selection-end-line="43" selection-end-column="35" />
+        <state relative-caret-position="528">
+          <caret line="25" column="26" selection-start-line="25" selection-start-column="26" selection-end-line="25" selection-end-column="26" />
           <folding>
             <element signature="e#149#165#0" expanded="true" />
           </folding>
