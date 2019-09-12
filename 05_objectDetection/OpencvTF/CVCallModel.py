@@ -13,13 +13,14 @@ import os
 
 #print (cv.getBuildInformation())
 TEST_IMAGE_PATHS = []
-PATH_TO_TEST_IMAGES_DIR ='testImgs'
+#PATH_TO_TEST_IMAGES_DIR ='testImgs'
+PATH_TO_TEST_IMAGES_DIR ='testImgsspot'
 for fpathe, dirs, fs in os.walk(PATH_TO_TEST_IMAGES_DIR):
     for f in fs:
         if os.path.splitext(f)[1] == '.jpg' or os.path.splitext(f)[1] == '.png':
             TEST_IMAGE_PATHS.append(os.path.join(fpathe, f))
 
-cvNet = cv.dnn.readNetFromTensorflow('frozen_inference_graph_faster.pb', 'graph_faster.pbtxt')
+cvNet = cv.dnn.readNetFromTensorflow('frozen_inference_graph_faster_spot.pb', 'graph_faster_spot.pbtxt')
 
 for path_img in TEST_IMAGE_PATHS:
 

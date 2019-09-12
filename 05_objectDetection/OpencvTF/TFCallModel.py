@@ -14,7 +14,8 @@ import time as tm
 
 
 TEST_IMAGE_PATHS = []
-PATH_TO_TEST_IMAGES_DIR ='testImgs'
+#PATH_TO_TEST_IMAGES_DIR ='testImgs'
+PATH_TO_TEST_IMAGES_DIR ='testImgsspot'
 for fpathe, dirs, fs in os.walk(PATH_TO_TEST_IMAGES_DIR):
     for f in fs:
         if os.path.splitext(f)[1] == '.jpg' or os.path.splitext(f)[1] == '.png':
@@ -24,7 +25,7 @@ for fpathe, dirs, fs in os.walk(PATH_TO_TEST_IMAGES_DIR):
 
 
 # Read the graph.
-with tf.gfile.FastGFile('frozen_inference_graph_ssd_0611.pb', 'rb') as f:
+with tf.gfile.FastGFile('frozen_inference_graph_faster_spot.pb', 'rb') as f:
     graph_def = tf.GraphDef()
     graph_def.ParseFromString(f.read())
 
